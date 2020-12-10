@@ -1,6 +1,6 @@
-# Magento 2 Product Slider by MageTop
+# Magento 2 Product Slider by Magetop
 
-**Magento 2 Product Slider Extension** by MageTop allows showing all suggested products friendly that match to customer’s expectation.
+**Magento 2 Product Slider Extension** by Magetop allows showing all suggested products friendly that match to customer’s expectation.
 
 ## Highlight features
 
@@ -21,13 +21,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-product-slider-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
